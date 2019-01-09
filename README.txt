@@ -12,5 +12,5 @@ in order to run the program,
 
 We tried to specify some error cases but some of them had some problems when we testify it,
 and we did not have the chance to fix all of them before the due time,so we decide to use
-try except instead. Due to the revolution difference of each computer,this system might appear differently
+try except instead. Due to the resolution difference of each computer,this system might appear differently
 comparing to what we intend to design.
